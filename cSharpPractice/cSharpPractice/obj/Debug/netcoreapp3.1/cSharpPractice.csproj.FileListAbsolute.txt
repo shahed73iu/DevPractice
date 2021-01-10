@@ -1,0 +1,13 @@
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\bin\Debug\netcoreapp3.1\cSharpPractice.exe
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\bin\Debug\netcoreapp3.1\cSharpPractice.deps.json
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\bin\Debug\netcoreapp3.1\cSharpPractice.runtimeconfig.json
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\bin\Debug\netcoreapp3.1\cSharpPractice.runtimeconfig.dev.json
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\bin\Debug\netcoreapp3.1\cSharpPractice.dll
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\bin\Debug\netcoreapp3.1\cSharpPractice.pdb
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.csprojAssemblyReference.cache
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.AssemblyInfoInputs.cache
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.AssemblyInfo.cs
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.csproj.CoreCompileInputs.cache
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.dll
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.pdb
+E:\dotnetJalalSirVideoStartingToEndPractice\DevPractice\cSharpPractice\cSharpPractice\obj\Debug\netcoreapp3.1\cSharpPractice.genruntimeconfig.cache

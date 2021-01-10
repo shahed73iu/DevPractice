@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnetJalalSirVideoStartingToEndPractice\\DevPractice\\cSharpPractice\\cSharpPractice\\cSharpPractice.csproj",
-      "projectName": "cSharpPractice",
-      "projectPath": "E:\\dotnetJalalSirVideoStartingToEndPractice\\DevPractice\\cSharpPractice\\cSharpPractice\\cSharpPractice.csproj",
+      "projectUniqueName": "E:\\dotnetJalalSirVideoStartingToEndPractice\\DevPractice\\cSharpPractice\\test\\test.csproj",
+      "projectName": "test",
+      "projectPath": "E:\\dotnetJalalSirVideoStartingToEndPractice\\DevPractice\\cSharpPractice\\test\\test.csproj",
       "packagesPath": "C:\\Users\\SHAHED\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnetJalalSirVideoStartingToEndPractice\\DevPractice\\cSharpPractice\\cSharpPractice\\obj\\",
+      "outputPath": "E:\\dotnetJalalSirVideoStartingToEndPractice\\DevPractice\\cSharpPractice\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHAHED\\AppData\\Roaming\\NuGet\\NuGet.Config",
